@@ -11,7 +11,7 @@ end
 
 end
 
-def assign_rooms (name)
+def assign_rooms(name)
 
 i = 0
 name.each do |person|
