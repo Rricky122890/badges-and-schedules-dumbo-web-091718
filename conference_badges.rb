@@ -16,7 +16,7 @@ def assign_rooms (name)
 i = 0
 name.each do |person|
 i+=1
-puts "Hello #{person}, you are assigned to room #{i}"
+puts "Hello, #{person}! You'll be assigned to room #{i}!"
 
 end
 end
